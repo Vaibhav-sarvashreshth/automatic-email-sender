@@ -12,8 +12,9 @@ The script requires the following Python libraries:
 To use this script, follow these steps:
 
 1. Clone the repository to your local machine using the following command:
+    git clone https://github.com/your-username/email-sender.git
 
-  git clone https://github.com/your-username/email-sender.git
+  
 
 
 
