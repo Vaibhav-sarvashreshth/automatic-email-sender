@@ -33,15 +33,6 @@ python email_sender.py
 
 This script can be useful for automating the process of sending repetitive emails to one or multiple recipients. For example, you can use it to send a daily report or status update to your team members or clients.
 
-## Repository Name
-
-Here are some suggestions for the repository name:
-- email-sender-python
-- python-email-sender
-- gmail-email-sender
-- automated-email-python
-
-Feel free to choose a name that suits your preference.
 
 ## License
 
