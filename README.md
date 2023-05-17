@@ -13,9 +13,9 @@ To use this script, follow these steps:
 
 1. Clone the repository to your local machine using the following command:
 
-git clone https://github.com/your-username/email-sender.git
+  git clone https://github.com/your-username/email-sender.git
 
-pip install -r requirements.txt
+
 
 
 
@@ -26,7 +26,17 @@ pip install -r requirements.txt
 
 3. Run the script using the following command:
 
-python email_sender.py
+  python email_sender.py
+  
+## Follow following instructions to set app_password
+
+   - Go to your Google Account settings.
+   - Navigate to the Security section.
+   - Enable 2-Step Verification if not already enabled.
+   - Access the App Passwords section.
+   - Generate a password for your application.
+   - Use this generated password and assign it to the `app_password` variable in the code.
+
 
 
 ## How it can be helpful
